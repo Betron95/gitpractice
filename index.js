@@ -1,5 +1,9 @@
 alert('Зайди в консоль!');
-console.log('===========');
-console.log('Hello Alex!');
-console.log('===========');
-console.log('hello Kesa x)');
+let Face = 'Ещкере';
+
+const GucciGand = () =>
+ console.log('Гуччи Гэнг');
+
+if (Face) {
+ GucciGand();
+}
